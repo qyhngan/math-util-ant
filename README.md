@@ -1,3 +1,5 @@
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by qyhngan](https://github.com/qyhngan/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/qyhngan/math-util-ant/actions/workflows/ci-with-ant.yml)
+
 # Welcome to Math Utility Repository
 
 ### You will find in this repo the following stuff:
